@@ -1,12 +1,6 @@
 # Hi there, I'm Tampraphon Lorattanasane! 👋  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Software+Developer;Enthusiastic+Learner;Tech+Explorer" />
 </p>
 
@@ -14,8 +8,13 @@
 
 - 📍 **Location:** Bangkok, Thailand  
 - 🎓 **Education:** University of Michigan - Shanghai Jiao Tong University Joint Institute  
-- 💼 **[LinkedIn](https://www.linkedin.com/in/tampraphon-lorattanasane)**  
-- 🚀 **Currently Working On:** The Odin Project  
+- 🚀 **Currently Working On:** The Odin Project
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
