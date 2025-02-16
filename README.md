@@ -24,14 +24,6 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,matlab,git,github,vscode,linux,arduino,latex" />
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/SolidWorks_Logo.svg" width="50" title="SolidWorks" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Xilinx_Vivado_Logo.png" width="50" title="Xilinx Vivado" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Verilog_logo.svg" width="50" title="Verilog" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Altium_Designer_Logo.png" width="50" title="Altium Designer" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Keysight_Technologies_Logo.svg" width="80" title="Keysight ADS" />
-</p>
-
 ---
 
 ## 📌 Featured Projects  
