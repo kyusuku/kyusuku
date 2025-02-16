@@ -30,17 +30,17 @@
 
 ### 🌟 The Odin Project  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes)** – A simple HTML-based collection of recipes, marking the start of my journey.  
+&nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes)** – This was my first project, consisting of a simple HTML-based collection of recipes, marking the beginning of my journey into web development.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;📄 **[Landing Page](https://github.com/kyusuku/landing-page)** – A simple, responsive HTML & CSS landing page.  
+&nbsp;&nbsp;&nbsp;&nbsp;📄 **[Landing Page](https://github.com/kyusuku/landing-page)** – This project helped me build a responsive HTML & CSS landing page, enhancing my understanding of layout and design.
 
-&nbsp;&nbsp;&nbsp;&nbsp;✊ **[Rock Paper Scissors](https://github.com/kyusuku/rock-paper-scissors)** – A JavaScript implementation of the classic game.  
+&nbsp;&nbsp;&nbsp;&nbsp;✊ **[Rock Paper Scissors](https://github.com/kyusuku/rock-paper-scissors)** – I implemented the classic game of Rock, Paper, Scissors using JavaScript, focusing on DOM manipulation and logic.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch)** – A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills.  
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch)** – This project showcased my ability to create an interactive drawing board using JavaScript, experimenting with grid creation and event handling.  
 
 ### 🚀 Other Projects  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
+&nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application that fetches data from an external API and displays it in a user-friendly manner.  
 
 ---
 
