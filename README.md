@@ -28,7 +28,7 @@
 
 ## 📌 Featured Projects  
 
-### 🌟 The Odin Project  
+### 🌟 The Odin Project (Curriculum Order)
 
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes)** – A simple HTML-based collection of recipes, marking the start of my journey.  
 
