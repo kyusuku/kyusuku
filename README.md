@@ -30,13 +30,13 @@
 
 ### 🌟 The Odin Project  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes) – A simple HTML-based collection of recipes, marking the start of my journey.  
+&nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes)** – A simple HTML-based collection of recipes, marking the start of my journey.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;📄 **[Landing Page](https://github.com/kyusuku/landing-page)** – A simple, responsive HTML & CSS landing page.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;✊ **[Rock Paper Scissors](https://github.com/kyusuku/rock-paper-scissors)** – A JavaScript implementation of the classic game.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch) – A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills.  
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch)** – A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills.  
 
 ### 🚀 Other Projects  
 
