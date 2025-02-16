@@ -11,10 +11,6 @@
 - 🚀 **Currently Working On:** The Odin Project
 
 <p align="center">
-  <a href="mailto:t.lorattanasane@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
   </a>
@@ -58,7 +54,7 @@
 
 ### 📫 Let's Connect!  
 <p align="center">
-  <a href="t.lorattanasane@gmail.com">
+  <a href="mailto:t.lorattanasane@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
