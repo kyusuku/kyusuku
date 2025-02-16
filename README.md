@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-F4A900?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-00979D?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-005F94?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keysight%20ADS-FF6600?style=for-the-badge&logo=keysight&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/SolidWorks_Logo.svg" width="50" title="SolidWorks" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Xilinx_Vivado_Logo.png" width="50" title="Xilinx Vivado" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Verilog_logo.svg" width="50" title="Verilog" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Altium_Designer_Logo.png" width="50" title="Altium Designer" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Keysight_Technologies_Logo.svg" width="80" title="Keysight ADS" />
 </p>
 
 ---
