@@ -29,7 +29,7 @@
 ## 📌 Featured Projects  
 
 🎨 **[etch-a-sketch](https://github.com/kyusuku/etch-a-sketch)** - A JavaScript-based Etch A Sketch simulation.  
-✊✋✌ **[rock-paper-scissors](https://github.com/kyusuku/rock-paper-scissors)** - A JavaScript implementation of the classic game.  
+✊ **[rock-paper-scissors](https://github.com/kyusuku/rock-paper-scissors)** - A JavaScript implementation of the classic game.  
 📄 **[landing-page](https://github.com/kyusuku/landing-page)** - A simple HTML & CSS landing page.  
 🍽 **[odin-recipes](https://github.com/kyusuku/odin-recipes)** - A collection of recipes in HTML.  
 🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** - A JavaScript weather application.  
