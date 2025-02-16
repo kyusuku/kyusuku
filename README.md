@@ -8,7 +8,7 @@
 
 - 📍 **Location:** Bangkok, Thailand  
 - 🎓 **Education:** University of Michigan - Shanghai Jiao Tong University Joint Institute  
-- 🚀 **Currently Working On:** The Odin Project
+- 🚀 **Currently Working On:** The Odin Project  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
@@ -21,7 +21,15 @@
 ## 🔧 Technologies & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,matlab,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,c,matlab,git,github,vscode,linux,arduino,latex" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-F4A900?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-00979D?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-005F94?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keysight%20ADS-FF6600?style=for-the-badge&logo=keysight&logoColor=white" />
 </p>
 
 ---
