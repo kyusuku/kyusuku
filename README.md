@@ -53,13 +53,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-- ![YOLO](https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png) **YOLO**  
-- ![Pull Shark](https://github.githubassets.com/images/icons/emoji/unicode/1f988.png) **Pull Shark**  
-
----
-
 ### 📫 Let's Connect!  
 <p align="center">
   <a href="mailto:t.lorattanasane@gmail.com">
