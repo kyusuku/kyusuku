@@ -36,7 +36,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;✊ **[Rock Paper Scissors](https://github.com/kyusuku/rock-paper-scissors)** – A JavaScript implementation of the classic game.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch)** – A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills.  
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch)** – A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills.
+
+&nbsp;&nbsp;&nbsp;&nbsp;🧮 **[Calculator](https://github.com/kyusuku/calculator)** - A JavaScript-powered calculator that supports basic operations and offers a responsive design.
 
 ### 🚀 Other Projects  
 
