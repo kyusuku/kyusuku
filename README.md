@@ -40,6 +40,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧮 **[Calculator](https://github.com/kyusuku/calculator)** - A JavaScript-powered calculator that supports basic operations and offers a responsive design.
 
+&nbsp;&nbsp;&nbsp;&nbsp;📝 **[Sign-Up Form](https://github.com/kyusuku/sign-up-form)** - A user registration form built with HTML and CSS, focusing on form structure and styling.
+
 ### 🚀 Other Projects  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
