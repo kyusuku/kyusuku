@@ -42,6 +42,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;📝 **[Sign-Up Form](https://github.com/kyusuku/sign-up-form)** - A user registration form built with HTML and CSS, focusing on form structure and styling.
 
+&nbsp;&nbsp;&nbsp;&nbsp;💻 **[Admin Dashboard](https://github.com/kyusuku/admin-dashboard)** – A dashboard layout created with HTML and CSS, utilizing CSS Grid for layout structure.
+
 ### 🚀 Other Projects  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
