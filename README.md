@@ -44,7 +44,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;💻 **[Admin Dashboard](https://github.com/kyusuku/admin-dashboard)** – A dashboard layout created with HTML and CSS, utilizing CSS Grid for layout structure.
 
-&nbsp;&nbsp;&nbsp;&nbsp;📚 **[Library](https://github.com/kyusuku/library)** – A dynamic book listing app built with JavaScript. Features include adding, removing, and updating book information with a dialog box for user input.
+&nbsp;&nbsp;&nbsp;&nbsp;📚 **[Library](https://github.com/kyusuku/library)** – A JavaScript-powered book management app with add, remove, and update features using a dialog box.
 
 ### 🚀 Other Projects  
 
