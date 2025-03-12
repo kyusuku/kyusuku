@@ -46,6 +46,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;📚 **[Library](https://github.com/kyusuku/library)** – A JavaScript-powered book management app with add, remove, and update features using a dialog box.
 
+&nbsp;&nbsp;&nbsp;&nbsp;❌ **[Tic-Tac-Toe](https://github.com/kyusuku/tic-tac-toe)** – A JavaScript-powered Tic Tac Toe game that includes player turns, win detection, and a modal dialog to show the result.
+
 ### 🚀 Other Projects  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
