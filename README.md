@@ -1,4 +1,4 @@
-# Hi there, I'm Tampraphon Lorattanasane! 👋  
+# Hi 👋, I'm Tampraphon Lorattanasane!  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Software+Developer;Enthusiastic+Learner;Tech+Explorer" />
@@ -47,6 +47,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📚 **[Library](https://github.com/kyusuku/library)** – A JavaScript-powered book management app with add, remove, and update features using a dialog box.
 
 &nbsp;&nbsp;&nbsp;&nbsp;❌ **[Tic-Tac-Toe](https://github.com/kyusuku/tic-tac-toe)** – A JavaScript-powered Tic Tac Toe game with player turns and win detection.
+
+&nbsp;&nbsp;&nbsp;&nbsp;🍽️ **[Restaurant Page](https://github.com/kyusuku/restaurant-page)** – A dynamic restaurant website built with HTML, CSS, and JavaScript, focusing on DOM manipulation and Webpack integration.
 
 ### 🚀 Other Projects  
 
