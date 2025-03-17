@@ -48,7 +48,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;❌ **[Tic-Tac-Toe](https://github.com/kyusuku/tic-tac-toe)** – A JavaScript-powered Tic Tac Toe game with player turns and win detection.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🍽️ **[Restaurant Page](https://github.com/kyusuku/restaurant-page)** – A dynamic restaurant website built with HTML, CSS, and JavaScript, focusing on DOM manipulation and Webpack integration.
+&nbsp;&nbsp;&nbsp;&nbsp;🍽️ **[Restaurant Page](https://github.com/kyusuku/restaurant-page)** – A dynamic restaurant website built with HTML, CSS, and JavaScript, focusing on Webpack integration.
 
 ### 🚀 Other Projects  
 
