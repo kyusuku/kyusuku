@@ -1,6 +1,10 @@
 # Hi 👋, I'm Tampraphon Lorattanasane!  
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hi 👋, I'm Tampraphon Lorattanasane!" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Software+Developer;Enthusiastic+Learner;Tech+Explorer" />
 </p>
 
