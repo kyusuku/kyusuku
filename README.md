@@ -50,7 +50,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🍽️ **[Restaurant Page](https://github.com/kyusuku/restaurant-page)** – A dynamic restaurant website built with HTML, CSS, and JavaScript, focusing on Webpack integration.
 
-&nbsp;&nbsp;&nbsp;&nbsp;📝 **[To-do List](https://github.com/kyusuku/to-do-list)** – A dynamic to-do list application built with HTML, CSS, and JavaScript, focusing on Webpack integration and Web Storage API for persistence.
+&nbsp;&nbsp;&nbsp;&nbsp;📝 **[To-do List](https://github.com/kyusuku/to-do-list)** – A task management app with dynamic content updates and persistent storage using Web Storage API.
+
+&nbsp;&nbsp;&nbsp;&nbsp;🌦 **[Weather App](https://github.com/kyusuku/weather-app)** – A weather app that fetches real-time data, supports unit toggling, and displays dynamic weather icons.
 
 ### 🚀 Other Projects  
 
