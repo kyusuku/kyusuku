@@ -54,7 +54,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[Weather App](https://github.com/kyusuku/weather-app)** – A weather app that fetches real-time data, supports unit toggling, and displays dynamic weather icons.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🧪 **[Testing Practice](https://github.com/kyusuku/testing-practice)** – A project focused on Test Driven Development (TDD) using Jest to write unit tests for JavaScript utility functions.
+&nbsp;&nbsp;&nbsp;&nbsp;🧪 **[Testing Practice](https://github.com/kyusuku/testing-practice)** – A project focused on Test Driven Development using Jest to write unit tests for JavaScript utility functions.
 
 ### 🚀 Other Projects  
 
