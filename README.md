@@ -56,6 +56,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧪 **[Testing Practice](https://github.com/kyusuku/testing-practice)** – A project focused on Test Driven Development using Jest to write unit tests for JavaScript utility functions.
 
+&nbsp;&nbsp;&nbsp;&nbsp;🏠 **[Homepage](https://github.com/kyusuku/homepage)** – A professional-looking personal homepage built with responsive design principles.
+
 ### 🚀 Other Projects  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
