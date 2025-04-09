@@ -15,9 +15,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
 <!--     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" /> -->
   </a>
-  <a href="mailto:t.lorattanasane@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gamil" />
-  </a>
 </p>
 
 ---
@@ -25,7 +22,7 @@
 ## 🔧 Technologies & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,tailwind,react,vite,webpack,jest,ts,js,css,html,cpp,c,matlab,git,github,vscode,linux,arduino,latex" />
+  <img src="https://skillicons.dev/icons?i=vercel,tailwind,react,vite,webpack,jest,npm,ts,js,css,html,cpp,c,matlab,git,github,vscode,linux,arduino,latex" />
 </p>
 
 ---
