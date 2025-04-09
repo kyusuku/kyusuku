@@ -71,7 +71,7 @@
   <br><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=kyusuku&theme=radical&hide_border=false" />
   <br></br>
-  ![Elden Dev Quote](https://your-image-link.png)
+  <img src="./quote.png" />
 </p>
 
 ---
