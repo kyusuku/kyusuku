@@ -71,7 +71,7 @@
   <br><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=kyusuku&theme=radical&hide_border=false" />
   <br></br>
-<!--   <img src="./quotes.png" /> -->
+  <img src="./devquote.png" />
 </p>
 
 ---
