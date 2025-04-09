@@ -15,7 +15,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
   </a>
   <a href="mailto:t.lorattanasane@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Gmail_icon_%282020%29.svg" width="50" alt="Gmail" />
   </a>
 </p>
 
