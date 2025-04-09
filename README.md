@@ -66,9 +66,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyusuku&show_icons=true&theme=radical" height="150" />
-  ![](https://github-readme-stats.vercel.app/api?username=kyusuku&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=kyusuku&theme=radical&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyusuku&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kyusuku&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyusuku&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
