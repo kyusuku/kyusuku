@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
   </a>
+  <a href="mailto:t.lorattanasane@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" alt="Gmail" />
+  </a>
 </p>
 
 ---
