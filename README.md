@@ -70,6 +70,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kyusuku&show_icons=true&theme=radical" height="150" />
   <br><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=kyusuku&theme=radical&hide_border=false" />
+  <br></br>
+  ![Elden Dev Quote](https://your-image-link.png)
 </p>
 
 ---
