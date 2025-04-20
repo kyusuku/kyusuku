@@ -58,6 +58,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;📄 **[CV Application](https://github.com/kyusuku/cv-application)** – A responsive and downloadable CV builder built with React, TypeScript, Tailwind CSS, and Vite.
 
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 **[Memory Game](https://github.com/kyusuku/memory-card)** – A dynamic memory game built with React, TypeScript, Tailwind, and PokéAPI. 
+
 ### 🚀 Other Projects  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
