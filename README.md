@@ -60,7 +60,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧠 **[Memory Game](https://github.com/kyusuku/memory-card)** – A dynamic memory game built with React, TypeScript, Tailwind, and PokéAPI. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;🧵 **[Shopping Cart](https://threadware.vercel.app)** – An e-commerce mock store built with React, TypeScript, Tailwind CSS, FakeStoreAPI, and Vite.
+&nbsp;&nbsp;&nbsp;&nbsp;🧵 **[Shopping Cart](https://github.com/kyusuku/shopping-cart)** – An e-commerce mock store built with React, TypeScript, Tailwind CSS, FakeStoreAPI, and Vite.
 
 ### 🚀 Other Projects  
 
