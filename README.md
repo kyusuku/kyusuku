@@ -56,7 +56,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🖥️ **[Basic Info Site](https://github.com/kyusuku/basic-info-site)** – A simple Node.js HTTP server that serves static HTML pages, demonstrating URL parsing and routing.
 
-## 📱 **Responsive Design Projects**
+#### 📱 **Responsive Design Projects**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🏠 **[Homepage](https://github.com/kyusuku/homepage)** – A professional-looking personal homepage built with responsive design principles.
 
