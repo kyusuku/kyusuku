@@ -32,13 +32,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes)** – A simple HTML-based collection of recipes, marking the start of my journey.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;📄 **[Landing Page](https://github.com/kyusuku/landing-page)** – A simple, responsive HTML & CSS landing page.  
+&nbsp;&nbsp;&nbsp;&nbsp;📄 **[Landing Page](https://github.com/kyusuku/landing-page)** – A simple HTML & CSS landing page built with CSS Flexbox layout structure.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;✊ **[Rock Paper Scissors](https://github.com/kyusuku/rock-paper-scissors)** – A JavaScript implementation of the classic game.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;🎨 **[Etch-A-Sketch](https://github.com/kyusuku/etch-a-sketch)** – A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🧮 **[Calculator](https://github.com/kyusuku/calculator)** - A JavaScript-powered calculator that supports basic operations and offers a responsive design.
+&nbsp;&nbsp;&nbsp;&nbsp;🧮 **[Calculator](https://github.com/kyusuku/calculator)** - A JavaScript-powered calculator that supports basic operations and offers an interactive design.
 
 &nbsp;&nbsp;&nbsp;&nbsp;📝 **[Sign-Up Form](https://github.com/kyusuku/sign-up-form)** - A user registration form built with HTML and CSS, focusing on form structure and styling.
 
@@ -54,6 +54,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦 **[Weather App](https://github.com/kyusuku/weather-app)** – A weather app that fetches real-time data, supports unit toggling, and displays dynamic weather icons.
 
+&nbsp;&nbsp;&nbsp;&nbsp;🖥️ **[Basic Info Site](https://github.com/kyusuku/basic-info-site)** – A simple Node.js HTTP server that serves static HTML pages, demonstrating URL parsing and routing.
+
+## 📱 **Responsive Design Projects**
+
 &nbsp;&nbsp;&nbsp;&nbsp;🏠 **[Homepage](https://github.com/kyusuku/homepage)** – A professional-looking personal homepage built with responsive design principles.
 
 &nbsp;&nbsp;&nbsp;&nbsp;📄 **[CV Application](https://github.com/kyusuku/cv-application)** – A responsive and downloadable CV builder built with React, TypeScript, Tailwind CSS, and Vite.
@@ -61,8 +65,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🧠 **[Memory Game](https://github.com/kyusuku/memory-card)** – A dynamic memory game built with React, TypeScript, Tailwind, and PokéAPI. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧵 **[Shopping Cart](https://github.com/kyusuku/shopping-cart)** – An e-commerce mock store built with React, TypeScript, Tailwind CSS, FakeStoreAPI, and Vite.
-
-&nbsp;&nbsp;&nbsp;&nbsp;🖥️ **[Basic Info Site](https://github.com/kyusuku/basic-info-site)** – A simple Node.js HTTP server that serves static HTML pages, demonstrating URL parsing and routing.
 
 ### 🚀 Other Projects  
 
