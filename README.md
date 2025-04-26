@@ -21,7 +21,7 @@
 ## 🔧 Technologies & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,vitest,vercel,tailwind,react,vite,webpack,jest,npm,ts,js,css,html,cpp,c,matlab,git,github,vscode,linux,arduino,latex" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,vitest,vercel,tailwind,react,vite,webpack,jest,npm,ts,js,css,html,cpp,c,matlab,git,github,vscode,linux,arduino,latex" />
 </p>
 
 ---
