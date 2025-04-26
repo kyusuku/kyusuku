@@ -62,7 +62,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧵 **[Shopping Cart](https://github.com/kyusuku/shopping-cart)** – An e-commerce mock store built with React, TypeScript, Tailwind CSS, FakeStoreAPI, and Vite.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🖥️ **[Basic Info Site](https://github.com/kyusuku/basic-info-site)** – A simple Node.js HTTP server that serves static HTML pages, demonstrating URL parsing, routing, and error handling.
+&nbsp;&nbsp;&nbsp;&nbsp;🖥️ **[Basic Info Site](https://github.com/kyusuku/basic-info-site)** – A simple Node.js HTTP server that serves static HTML pages, demonstrating URL parsing and routing.
 
 ### 🚀 Other Projects  
 
