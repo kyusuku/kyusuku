@@ -32,13 +32,13 @@
 
 #### 🎈 Foundations
 
-| Project                 | Topic             | Repository                                                                   | Live Preview                                                       |
-| ----------------------- | ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ | 
-| **Recipes**             | HTML Foundations  | [Code](https://github.com/kyusuku/odin-recipes)                              | [Demo](https://kyusuku.github.io/odin-recipes/)                    | 
-| **Landing Page**        | Flexbox           | [Code](https://github.com/kyusuku/landing-page)                              | [Demo](https://kyusuku.github.io/landing-page/)                    | 
-| **Rock Paper Scissors** | JavaScript Basics | [Code](https://github.com/kyusuku/rock-paper-scissors)                       | [Demo](https://kyusuku.github.io/rock-paper-scissors/)             |   
-| **Etch-a-Sketch**       | JavaScript Basics | [Code](https://github.com/kyusuku/etch-a-sketch)                             | [Demo](https://kyusuku.github.io/etch-a-sketch/)                   | 
-| **Calculator**          | JavaScript Basics | [Code](https://github.com/kyusuku/calculator)                                | [Demo](https://kyusuku.github.io/calculator/)                      |             
+| Project                 | Description                                                                                     | Repository                                             | Live Preview                                           | Responsive Design |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ----------------- |
+| **Recipes**             | A simple HTML-based collection of recipes, marking the start of my journey                      | [Code](https://github.com/kyusuku/odin-recipes)        | [Demo](https://kyusuku.github.io/odin-recipes/)        | 
+| **Landing Page**        | A simple HTML & CSS landing page built with CSS Flexbox layout structure                        | [Code](https://github.com/kyusuku/landing-page)        | [Demo](https://kyusuku.github.io/landing-page/)        | 
+| **Rock Paper Scissors** | A JavaScript implementation of the classic game                                                 | [Code](https://github.com/kyusuku/rock-paper-scissors) | [Demo](https://kyusuku.github.io/rock-paper-scissors/) |   
+| **Etch-a-Sketch**       | A JavaScript-based Etch A Sketch simulation, showcasing DOM manipulation skills                 | [Code](https://github.com/kyusuku/etch-a-sketch)       | [Demo](https://kyusuku.github.io/etch-a-sketch/)       | 
+| **Calculator**          | A JavaScript-powered calculator that supports basic operations and offers an interactive design | [Code](https://github.com/kyusuku/calculator)          | [Demo](https://kyusuku.github.io/calculator/)          |             
 
 #### 🚀 Full Stack JavaScript
 
