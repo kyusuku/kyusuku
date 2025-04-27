@@ -33,7 +33,7 @@
 #### 🎈 Foundations
 
 | Project                 | Description                                                                                     | Repository                                             | Live Preview                                           | Responsive Design |
-| ----------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ----------------- |
+|:-----------------------:| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ----------------- |
 | **Recipes**             | A simple HTML-based collection of recipes, marking the start of my journey                      | [Code](https://github.com/kyusuku/odin-recipes)        | [Demo](https://kyusuku.github.io/odin-recipes/)        | ❌
 | **Landing Page**        | A simple HTML & CSS landing page built with CSS Flexbox layout structure                        | [Code](https://github.com/kyusuku/landing-page)        | [Demo](https://kyusuku.github.io/landing-page/)        | ❌
 | **Rock Paper Scissors** | A JavaScript implementation of the classic game                                                 | [Code](https://github.com/kyusuku/rock-paper-scissors) | [Demo](https://kyusuku.github.io/rock-paper-scissors/) | ❌
@@ -44,7 +44,7 @@
 
 | Project                      | Description                                                                                           | Repository                                              | Live Preview                                            | Responsive Design |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------- |
-| **Sign-up Form**             | A user registration form built with HTML and CSS, focusing on form structure and styling              | [Code](https://github.com/kyusuku/sign-up-form)         | [Demo](https://kyusuku.github.io/sign-up-form/)         | ❌               |
+| **Sign-up Form**             | A user registration form built with HTML and CSS, focusing on form structure and styling              | [Code](https://github.com/kyusuku/sign-up-form)         | [Demo](https://kyusuku.github.io/sign-up-form/)         | ❌               
 | **Admin Dashboard**          |  A dashboard layout created with HTML and CSS, utilizing CSS Grid for layout structure                | [Code](https://github.com/kyusuku/admin-dashboard)      | [Demo](https://kyusuku.github.io/admin-dashboard/)      | ❌
 | **Library**                  | A JavaScript-powered book management app with add, remove, and update features using a dialog box     | [Code](https://github.com/kyusuku/library)              | [Demo](https://kyusuku.github.io/library/)              | ❌
 | **Tic Tac Toe**              | A JavaScript-powered Tic Tac Toe game with player turns and win detection                             | [Code](https://github.com/kyusuku/tic-tac-toe)          | [Demo](https://kyusuku.github.io/tic-tac-toe/)          | ❌
