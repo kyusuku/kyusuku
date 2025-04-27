@@ -53,9 +53,9 @@
 | **Weather App**              | A weather app that fetches real-time data, supports unit toggling, and displays dynamic weather icons | [Code](https://github.com/kyusuku/weather-app)          | [Demo](https://kyusuku.github.io/weather-app/)          | ❌
 | **Homepage**                 | A professional-looking personal homepage built with responsive design principles                      | [Code](https://github.com/kyusuku/homepage)             | [Demo](https://kyusuku.github.io/homepage/)             | ✅
 | **CV Application**           | A responsive and downloadable CV builder built with React, TypeScript, Tailwind CSS, and Vite         | [Code](https://github.com/kyusuku/cv-application)       | [Demo](https://kyusuku-cv-maker.vercel.app/)            | ✅
-| **Memory Card**              | A dynamic memory game built with React, TypeScript, Tailwind, Vite, and PokéAPI                       | [Code](https://github.com/kyusuku/memory-card)          | [Demo](https://kyusuku-memory-card.vercel.app/)         | ✅
-| **Shopping Cart**            | An e-commerce mock store built with React, TypeScript, Tailwind CSS, FakeStoreAPI, and Vite           | [Code](https://github.com/kyusuku/shopping-cart)        | [Demo](https://threadware.vercel.app/)                  | ✅
-| **Basic Informational Site** | A simple Node.js HTTP server that serves static HTML pages, demonstrating URL parsing and routing     | [Code](https://github.com/kyusuku/basic-info-site)      | -                                                       | ❌
+| **Memory Card**              | A dynamic memory game built with React, TypeScript, Tailwind CSS, Vite, and PokéAPI                   | [Code](https://github.com/kyusuku/memory-card)          | [Demo](https://kyusuku-memory-card.vercel.app/)         | ✅
+| **Shopping Cart**            | An e-commerce mock store built with React, TypeScript, Tailwind CSS, Vite, and FakeStoreAPI           | [Code](https://github.com/kyusuku/shopping-cart)        | [Demo](https://threadware.vercel.app/)                  | ✅
+| **Basic Informational Site** | A simple Node.js site serving static HTML pages with basic routing, also featuring an Express version | [Code](https://github.com/kyusuku/basic-info-site)      | -                                                       | ❌
 
 ### 🚀 Other Projects  
 
