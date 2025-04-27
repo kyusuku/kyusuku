@@ -50,10 +50,6 @@
 | **Shopping Cart**            | An e-commerce mock store built with React, TypeScript, Tailwind CSS, Vite, and FakeStoreAPI           | [Code](https://github.com/kyusuku/shopping-cart)       | [Demo](https://threadware.vercel.app/)                 | ✅
 | **Basic Informational Site** | A simple Node.js site serving static HTML pages with basic routing, also featuring an Express version | [Code](https://github.com/kyusuku/basic-info-site)     | -                                                      | ❌
 
-### 🚀 Other Projects  
-
-&nbsp;&nbsp;&nbsp;&nbsp;🌦 **[WeatherApp](https://github.com/kyusuku/WeatherApp)** – A JavaScript weather application.  
-
 ---
 
 ## 📈 GitHub Stats  
