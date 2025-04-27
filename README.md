@@ -30,6 +30,34 @@
 
 ### 🌟 The Odin Project (Curriculum Order)
 
+#### 🎈 Foundations
+
+| Project                 | Topic             | Repository                                                                   | Live Preview                                                       |
+| ----------------------- | ----------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ | 
+| **Recipes**             | HTML Foundations  | [Code](https://github.com/kyusuku/odin-recipes)                              | [Demo](https://kyusuku.github.io/odin-recipes/)                    | 
+| **Landing Page**        | Flexbox           | [Code](https://github.com/kyusuku/landing-page)                              | [Demo](https://kyusuku.github.io/landing-page/)                    | 
+| **Rock Paper Scissors** | JavaScript Basics | [Code](https://github.com/kyusuku/rock-paper-scissors)                       | [Demo](https://kyusuku.github.io/rock-paper-scissors/)             |   
+| **Etch-a-Sketch**       | JavaScript Basics | [Code](https://github.com/kyusuku/etch-a-sketch)                             | [Demo](https://kyusuku.github.io/etch-a-sketch/)                   | 
+| **Calculator**          | JavaScript Basics | [Code](https://github.com/kyusuku/calculator)                                | [Demo](https://kyusuku.github.io/calculator/)                      |             
+
+#### 🚀 Full Stack JavaScript
+
+| Project                      | Topic                                 | Repository                                              | Live Preview                                            |
+| ---------------------------- | ------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |   
+| **Sign-up Form**             | Forms                                 | [Code](https://github.com/kyusuku/sign-up-form)         | [Demo](https://kyusuku.github.io/sign-up-form/)         |
+| **Admin Dashboard**          | Grid                                  | [Code](https://github.com/kyusuku/admin-dashboard)      | [Demo](https://kyusuku.github.io/admin-dashboard/)      | 
+| **Library**                  | Objects and Object constructors, OOP  | [Code](https://github.com/kyusuku/library)              | [Demo](https://kyusuku.github.io/library/)              | 
+| **Tic Tac Toe**              | Factory functions and module patterns | [Code](https://github.com/kyusuku/tic-tac-toe)          | [Demo](https://kyusuku.github.io/tic-tac-toe/)          | 
+| **Restaurant Page**          | ES6 modules, Webpack                  | [Code](https://github.com/kyusuku/restaurant-page)      | [Demo](https://kyusuku.github.io/restaurant-page/)      | 
+| **Todo List**                | SOLID principles                      | [Code](https://github.com/kyusuku/to-do-list)           | [Demo](https://kyusuku.github.io/to-do-list/)           | 
+| **Weather App**              | Asynchronous JavaScript and APIs      | [Code](https://github.com/kyusuku/weather-app)          | [Demo](https://kyusuku.github.io/weather-app/)          | 
+| **Testing Practice**         | Test Driven Development               | [Code](https://github.com/kyusuku/testing-practice)     | -                                                       | 
+| **Homepage**                 | Responsive design, Accessibility      | [Code](https://github.com/kyusuku/homepage)             | [Demo](https://kyusuku.github.io/homepage/)             | 
+| **CV Application**           | React                                 | [Code](https://github.com/kyusuku/cv-application)       | [Demo](https://kyusuku-cv-maker.vercel.app/)            | 
+| **Memory Card**              | React Hooks                           | [Code](https://github.com/kyusuku/memory-card)          | [Demo](https://kyusuku-memory-card.vercel.app/)         | 
+| **Shopping Cart**            | React Router, UI testing              | [Code](https://github.com/kyusuku/shopping-cart)        | [Demo](https://threadware.vercel.app/)                  | 
+| **Basic Informational Site** | Basic Node.js, Express                | [Code](https://github.com/kyusuku/basic-info-site)      | -                                                       | 
+
 &nbsp;&nbsp;&nbsp;&nbsp;🛠 **[Odin Recipes](https://github.com/kyusuku/odin-recipes)** – A simple HTML-based collection of recipes, marking the start of my journey.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;📄 **[Landing Page](https://github.com/kyusuku/landing-page)** – A simple HTML & CSS landing page built with CSS Flexbox layout structure.  
