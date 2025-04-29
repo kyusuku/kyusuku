@@ -49,7 +49,7 @@
 | **Memory Card**              | A dynamic memory game built with React, TypeScript, Tailwind CSS, Vite, and PokéAPI                   | [Code](https://github.com/kyusuku/memory-card)         | [Demo](https://kyusuku-memory-card.vercel.app/)                   | ✅
 | **Shopping Cart**            | An e-commerce mock store built with React, TypeScript, Tailwind CSS, Vite, and FakeStoreAPI           | [Code](https://github.com/kyusuku/shopping-cart)       | [Demo](https://threadware.vercel.app/)                            | ✅
 | **Basic Informational Site** | A simple Node.js site serving static HTML pages with basic routing, also featuring an Express version | [Code](https://github.com/kyusuku/basic-info-site)     | -                                                                 | ❌
-| **Mini Message Board**       | A simple Node.js & Express app that displays and allows adding messages dynamically                   | [Code](https://github.com/kyusuku/mini-message-board)  | [Demo](https://mini-message-board-production-9bb5.up.railway.app) | ❌ 
+| **Mini Message Board**       | A simple Node.js, Express, and PostgreSQL app that displays and allows adding messages dynamically    | [Code](https://github.com/kyusuku/mini-message-board)  | [Demo](https://mini-message-board-production-9bb5.up.railway.app) | ❌ 
 
 ---
 
