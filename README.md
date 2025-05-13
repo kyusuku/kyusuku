@@ -7,7 +7,7 @@
 ## 🌍 About Me  
 
 - 📍 **Location:** Bangkok, Thailand  
-- 🎓 **Education:** University of Michigan - Shanghai Jiao Tong University Joint Institute  
+- 🎓 **Education:** Shanghai Jiao Tong University
 - 🚀 **Currently Working On:** The Odin Project  
 
 <p align="center">
