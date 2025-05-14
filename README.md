@@ -51,7 +51,8 @@
 | **Basic Informational Site** | A simple Node.js site serving static HTML pages with basic routing, also featuring an Express version | [Code](https://github.com/kyusuku/basic-info-site)       | -                                                                     | ❌
 | **Mini Message Board**       | A simple Node.js, Express, and PostgreSQL app that displays and allows adding messages dynamically    | [Code](https://github.com/kyusuku/mini-message-board)    | [Demo](https://mini-message-board-production-9bb5.up.railway.app)     | ❌ 
 | **Inventory Application**    | A Node.js and Express app for managing categories and items with secure deletion via a secret code    | [Code](https://github.com/kyusuku/inventory-application) | [Demo](https://inventory-application-production-68ab.up.railway.app/) | ❌           
-| **Members Only**             | A Node.js and Express app that requires a secret membership code to reveal post authors and dates     | [Code](https://github.com/kyusuku/members-only)          | [Demo](https://members-only-production-4b47.up.railway.app/)          | ❌           
+| **Members Only**             | A Node.js and Express app that requires a secret membership code to reveal post authors and dates     | [Code](https://github.com/kyusuku/members-only)          | [Demo](https://members-only-production-4b47.up.railway.app/)          | ❌   
+| **File Uploader**            | A Node.js and Express app allowing users to upload, download, and manage files with PostgreSQL via Prisma | [Code](https://github.com/kyusuku/file-uploader)       | [Demo](https://file-uploader-production-3bdf.up.railway.app/)        | ❌               |
 
 ---
 
