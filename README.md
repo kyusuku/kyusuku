@@ -8,7 +8,7 @@
 
 - 📍 **Location:** Bangkok, Thailand  
 - 🎓 **Education:** Shanghai Jiao Tong University
-- 🚀 **Currently Working On:** The Odin Project  
+- 🚀 **Currently Working On:** The Odin Project (on hold due to college Summer sem)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
