@@ -20,7 +20,7 @@
 ## 🔧 Technologies & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,cypress,docker,elasticsearch,express,git,github,githubactions,gitlab,go,html,js,jenkins,jest,latex,linux,md,matlab,mongodb,mysql,nextjs,nodejs,npm,postgres,postman,prisma,py,r,react,redis,regex,spring,supabase,sklearn,tailwind,ts,ubuntu,vercel,vite,vitest,vscode,webpack" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,css,cypress,docker,elasticsearch,express,git,github,githubactions,gitlab,go,html,java,js,jenkins,jest,latex,linux,md,matlab,mongodb,mysql,nextjs,nodejs,npm,postgres,postman,prisma,py,r,react,redis,regex,spring,supabase,sklearn,tailwind,ts,ubuntu,vercel,vite,vitest,vscode,webpack" />
 </p>
 
 ---
