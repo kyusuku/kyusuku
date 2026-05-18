@@ -1,11 +1,5 @@
 # Hi, I'm Kyu
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tampraphon-lorattanasane">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ## Technologies & Tools  
