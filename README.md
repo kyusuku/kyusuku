@@ -1,4 +1,4 @@
-# Hi, I'm Kyu
+## Hi, I'm Kyu
 
 ---
 
